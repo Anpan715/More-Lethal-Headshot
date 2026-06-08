@@ -1,0 +1,9 @@
+{
+    "name": "MoreLethalHeadshot",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/Anpan715/More-Lethal-Headshot",
+    "description": "Sosigs instantly die on headshots.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305"
+    ]
+}
